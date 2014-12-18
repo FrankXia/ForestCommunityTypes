@@ -1,0 +1,216 @@
+{
+    "name": "",
+    "children": [
+        {
+        "name": "Hardwood",
+        "children": [{
+            "name": "10",
+            "color": "#FF00FF",
+            "children": [{
+                "name": "AgglomerativeCluster",
+                "color": "#F12"
+            }, {
+                "name": "CommunityStructure",
+                "color": "#B00000"
+            }, {
+                "name": "HierarchicalCluster",
+                "color": "#F00000"
+            }, {
+                "name": "MergeEdge",
+                "color": "#F00000"
+            }]
+        },
+        {
+            "name": "11",
+            "color": "#FF00FF",
+            "children": [{
+            "name": "AgglomerativeCluster",
+            "color": "#00FF00"
+            }, {
+            "name": "CommunityStructure",
+            "color": "#00FF00"
+            }, {
+            "name": "HierarchicalCluster",
+            "color": "#00FF00"
+            }, {
+            "name": "MergeEdge",
+            "color": "#00FF00"
+            }]
+        },
+            {
+                "name": "12",
+                "color": "#FF00FF",
+                "children": [{
+                    "name": "ArrayInterpolator",
+                    "color": "#FFFF00"
+                }, {
+                    "name": "ColorInterpolator",
+                    "color": "#FFFF00"
+                }, {
+                    "name": "DateInterpolator",
+                    "color": "#FFFF00"
+                }, {
+                    "name": "Interpolator",
+                    "color": "#FFFF00"
+                }, {
+                    "name": "MatrixInterpolator",
+                    "color": "#FFFF00"
+                }, {
+                    "name": "NumberInterpolator",
+                    "color": "#FFFF00"
+                }, {
+                    "name": "ObjectInterpolator",
+                    "color": "#FFFF00"
+                }, {
+                    "name": "PointInterpolator",
+                    "color": "#FFFF00"
+                }, {
+                    "name": "RectangleInterpolator",
+                    "color": "#FFFF00"
+                }]
+            },
+        {
+            "name": "13",
+            "color": "#FF00FF",
+            "children": [{
+                "name": "BetweennessCentrality",
+                "color": "#FFFF00"
+            }, {
+                "name": "LinkDistance",
+                "color": "#FFFF00"
+            }, {
+                "name": "MaxFlowMinCut",
+                "color": "#FFFF00"
+            }, {
+                "name": "ShortestPaths",
+                "color": "#FFFF00"
+            }, {
+                "name": "SpanningTree",
+                "color": "#FFFF00"
+            }]
+        }, {
+            "name": "14",
+                "color": "#FF00FF",
+            "children": [{
+                "name": "AspectRatioBanker",
+                "color": "#FFFF00"
+            }]
+        }]
+    },
+
+        {
+        "name": "Softwood",
+        "children": [
+            {
+            "name": "15",
+            "color": "#FF00FF",
+            "children": [{
+                "name": "ArrayInterpolator",
+                "color": "#FF00FF"
+            }, {
+                "name": "ColorInterpolator",
+                "color": "#FF00FF"
+            }, {
+                "name": "DateInterpolator",
+                "color": "#FF00FF"
+            }, {
+                "name": "Interpolator",
+                "color": "#FF00FF"
+            }, {
+                "name": "MatrixInterpolator",
+                "color": "#FF00FF"
+            }, {
+                "name": "NumberInterpolator",
+                "color": "#FF00FF"
+            }, {
+                "name": "ObjectInterpolator",
+                "color": "#FF00FF"
+            }, {
+                "name": "PointInterpolator",
+                "color": "#FF00FF"
+            }, {
+                "name": "RectangleInterpolator",
+                "color": "#FF00FF"
+            }]
+        },
+            {
+                "name": "16",
+                "color": "#FF00FF",
+                "children": [{
+                    "name": "DirtySprite",
+                    "color": "#FF0000"
+                }, {
+                    "name": "LineSprite",
+                    "color": "#FF0000"
+                }, {
+                    "name": "RectSprite",
+                    "color": "#FF0000"
+                }, {
+                    "name": "TextSprite",
+                    "color": "#FF0000"
+                }]
+            },
+            {
+                "name": "17",
+                "color": "#FF00FF",
+                "children": [{
+                    "name": "Converters",
+                    "color": "#FF00FF"
+                }, {
+                    "name": "DelimitedTextConverter",
+                    "color": "#FF00FF"
+                }, {
+                    "name": "GraphMLConverter",
+                    "color": "#FF00FF"
+                }, {
+                    "name": "IDataConverter",
+                    "color": "#FF00FF"
+                }, {
+                    "name": "JSONConverter",
+                    "color": "#FF00FF"
+                }]
+            },
+
+            {
+                "name":"18",
+                "color": "#FF00FF",
+            "children":[
+
+            {
+            "name": "ISchedulable",
+            "color": "#FF0000"
+        }, {
+            "name": "Parallel",
+            "color": "#FF0000"
+        }, {
+            "name": "Pause",
+            "color": "#FF0000"
+        }, {
+            "name": "Scheduler",
+            "color": "#FF0000"
+        }, {
+            "name": "Sequence",
+            "color": "#FF0000"
+        }]},
+            {
+                "name":"19",
+                "color": "#FF00FF",
+                "children":[
+
+            {
+            "name": "Transition",
+            "color": "#FF00FF"
+        }, {
+            "name": "Transitioner",
+            "color": "#FF00FF"
+        }, {
+            "name": "TransitionEvent",
+            "color": "#FF00FF"
+        }, {
+            "name": "Tween",
+            "color": "#FF00FF"
+        }]}
+            ]
+        }
+       ]
+}

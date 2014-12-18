@@ -1,0 +1,970 @@
+{
+    "name" : "",
+    "children" :
+        [
+            {
+                "name" : "Softwoods",
+                "children" :
+                    [
+                        {
+                            "order" : 1,
+                            "alias" : " White/red/jack pine",
+                            "color" : "#C7EAFB",
+                            "name" : "1",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 5,
+                                        "color" : "#C7EAFB",
+                                        "name" : "Eastern hemlock"
+                                    },
+                                    {
+                                        "order" : 3,
+                                        "color" : "#C7EAFB",
+                                        "name" : "Eastern white pine"
+                                    },
+                                    {
+                                        "order" : 4,
+                                        "color" : "#C7EAFB",
+                                        "name" : "Eastern white pine / eastern hemlock"
+                                    },
+                                    {
+                                        "order" : 1,
+                                        "color" : "#C7EAFB",
+                                        "name" : "Jack pine"
+                                    },
+                                    {
+                                        "order" : 2,
+                                        "color" : "#C7EAFB",
+                                        "name" : "Red pine"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 2,
+                            "alias" : " Spruce/fir",
+                            "color" : "#ABE1FA",
+                            "name" : "2",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 6,
+                                        "color" : "#ABE1FA",
+                                        "name" : "Balsam fir"
+                                    },
+                                    {
+                                        "order" : 10,
+                                        "color" : "#ABE1FA",
+                                        "name" : "Black spruce"
+                                    },
+                                    {
+                                        "order" : 12,
+                                        "color" : "#ABE1FA",
+                                        "name" : "Nothern white-cedar"
+                                    },
+                                    {
+                                        "order" : 8,
+                                        "color" : "#ABE1FA",
+                                        "name" : "Red spruce"
+                                    },
+                                    {
+                                        "order" : 9,
+                                        "color" : "#ABE1FA",
+                                        "name" : "Red spruce / balsam fir"
+                                    },
+                                    {
+                                        "order" : 11,
+                                        "color" : "#ABE1FA",
+                                        "name" : "Tamarack"
+                                    },
+                                    {
+                                        "order" : 7,
+                                        "color" : "#ABE1FA",
+                                        "name" : "White spruce"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 3,
+                            "alias" : " Longleaf/slash pine",
+                            "color" : "#7ED3F7",
+                            "name" : "3",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 13,
+                                        "color" : "#7ED3F7",
+                                        "name" : "Longleaf pine"
+                                    },
+                                    {
+                                        "order" : 14,
+                                        "color" : "#7ED3F7",
+                                        "name" : "Slash pine"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 4,
+                            "alias" : " Loblolly/shortleaf pine",
+                            "color" : "#44C8F5",
+                            "name" : "4",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 15,
+                                        "color" : "#44C8F5",
+                                        "name" : "Loblolly pine"
+                                    },
+                                    {
+                                        "order" : 21,
+                                        "color" : "#44C8F5",
+                                        "name" : "Pitch pine"
+                                    },
+                                    {
+                                        "order" : 20,
+                                        "color" : "#44C8F5",
+                                        "name" : "Pond pine"
+                                    },
+                                    {
+                                        "order" : 18,
+                                        "color" : "#44C8F5",
+                                        "name" : "Sand pine"
+                                    },
+                                    {
+                                        "order" : 16,
+                                        "color" : "#44C8F5",
+                                        "name" : "Shortleaf pine"
+                                    },
+                                    {
+                                        "order" : 22,
+                                        "color" : "#44C8F5",
+                                        "name" : "Spruce pine"
+                                    },
+                                    {
+                                        "order" : 19,
+                                        "color" : "#44C8F5",
+                                        "name" : "Table Mountain pine"
+                                    },
+                                    {
+                                        "order" : 17,
+                                        "color" : "#44C8F5",
+                                        "name" : "Virginia pine"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 5,
+                            "alias" : " Pinyon/juniper",
+                            "color" : "#00B6F1",
+                            "name" : "5",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 23,
+                                        "color" : "#00B6F1",
+                                        "name" : "Eastern redcedar"
+                                    },
+                                    {
+                                        "order" : 26,
+                                        "color" : "#00B6F1",
+                                        "name" : "Juniper woodland"
+                                    },
+                                    {
+                                        "order" : 27,
+                                        "color" : "#00B6F1",
+                                        "name" : "Pinyon / juniper woodland"
+                                    },
+                                    {
+                                        "order" : 24,
+                                        "color" : "#00B6F1",
+                                        "name" : "Rocky Mountain juniper"
+                                    },
+                                    {
+                                        "order" : 25,
+                                        "color" : "#00B6F1",
+                                        "name" : "Western juniper"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 6,
+                            "alias" : " Douglas-fir",
+                            "color" : "#009BDF",
+                            "name" : "6",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 28,
+                                        "color" : "#009BDF",
+                                        "name" : "Douglas-fir"
+                                    },
+                                    {
+                                        "order" : 29,
+                                        "color" : "#009BDF",
+                                        "name" : "Port-Orford-cedar"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 7,
+                            "alias" : " Ponderosa pine",
+                            "color" : "#007DC5",
+                            "name" : "7",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 31,
+                                        "color" : "#007DC5",
+                                        "name" : "Incense-cedar"
+                                    },
+                                    {
+                                        "order" : 32,
+                                        "color" : "#007DC5",
+                                        "name" : "Jeffrey pine / Coulter pine / bigcone Douglas-fir"
+                                    },
+                                    {
+                                        "order" : 30,
+                                        "color" : "#007DC5",
+                                        "name" : "Ponderosa pine"
+                                    },
+                                    {
+                                        "order" : 33,
+                                        "color" : "#007DC5",
+                                        "name" : "Sugar pine"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 8,
+                            "alias" : " Western white pine",
+                            "color" : "#0061AF",
+                            "name" : "8",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 34,
+                                        "color" : "#0061AF",
+                                        "name" : "Western white pine"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 9,
+                            "alias" : " Fir/spruce/mountain hemlock",
+                            "color" : "#17479E",
+                            "name" : "9",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 45,
+                                        "color" : "#17479E",
+                                        "name" : "Alaska-yellow-cedar"
+                                    },
+                                    {
+                                        "order" : 43,
+                                        "color" : "#17479E",
+                                        "name" : "Blue spruce"
+                                    },
+                                    {
+                                        "order" : 39,
+                                        "color" : "#17479E",
+                                        "name" : "Engelmann spruce"
+                                    },
+                                    {
+                                        "order" : 40,
+                                        "color" : "#17479E",
+                                        "name" : "Engelmann spruce / subalpine fir"
+                                    },
+                                    {
+                                        "order" : 41,
+                                        "color" : "#17479E",
+                                        "name" : "Grand fir"
+                                    },
+                                    {
+                                        "order" : 44,
+                                        "color" : "#17479E",
+                                        "name" : "Mountain hemlock"
+                                    },
+                                    {
+                                        "order" : 37,
+                                        "color" : "#17479E",
+                                        "name" : "Noble fir"
+                                    },
+                                    {
+                                        "order" : 38,
+                                        "color" : "#17479E",
+                                        "name" : "Pacific silver fir"
+                                    },
+                                    {
+                                        "order" : 36,
+                                        "color" : "#17479E",
+                                        "name" : "Red fir"
+                                    },
+                                    {
+                                        "order" : 42,
+                                        "color" : "#17479E",
+                                        "name" : "Subalpine fir"
+                                    },
+                                    {
+                                        "order" : 35,
+                                        "color" : "#17479E",
+                                        "name" : "White fir"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 10,
+                            "alias" : " Lodgepole pine",
+                            "color" : "#192F7C",
+                            "name" : "10",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 46,
+                                        "color" : "#192F7C",
+                                        "name" : "Lodgepole pine"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 11,
+                            "alias" : " Hemlock/Sitka spruce",
+                            "color" : "#522E91",
+                            "name" : "11",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 49,
+                                        "color" : "#522E91",
+                                        "name" : "Sitka spruce"
+                                    },
+                                    {
+                                        "order" : 47,
+                                        "color" : "#522E91",
+                                        "name" : "Western hemlock"
+                                    },
+                                    {
+                                        "order" : 48,
+                                        "color" : "#522E91",
+                                        "name" : "Western redcedar"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 12,
+                            "alias" : " Western larch",
+                            "color" : "#7B5AA6",
+                            "name" : "12",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 50,
+                                        "color" : "#7B5AA6",
+                                        "name" : "Western larch"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 13,
+                            "alias" : " Redwood",
+                            "color" : "#9E76B4",
+                            "name" : "13",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 52,
+                                        "color" : "#9E76B4",
+                                        "name" : "Giant sequoia"
+                                    },
+                                    {
+                                        "order" : 51,
+                                        "color" : "#9E76B4",
+                                        "name" : "Redwood"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 14,
+                            "alias" : " other western softwoods",
+                            "color" : "#C786BA",
+                            "name" : "14",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 55,
+                                        "color" : "#C786BA",
+                                        "name" : "Bishop pine"
+                                    },
+                                    {
+                                        "order" : 57,
+                                        "color" : "#C786BA",
+                                        "name" : "Foxtail pine / bristlecone pine"
+                                    },
+                                    {
+                                        "order" : 53,
+                                        "color" : "#C786BA",
+                                        "name" : "Knobcone pine"
+                                    },
+                                    {
+                                        "order" : 58,
+                                        "color" : "#C786BA",
+                                        "name" : "Limber pine"
+                                    },
+                                    {
+                                        "order" : 60,
+                                        "color" : "#C786BA",
+                                        "name" : "Misc. western softwoods"
+                                    },
+                                    {
+                                        "order" : 56,
+                                        "color" : "#C786BA",
+                                        "name" : "Monterey pine"
+                                    },
+                                    {
+                                        "order" : 54,
+                                        "color" : "#C786BA",
+                                        "name" : "Southwestern white pine"
+                                    },
+                                    {
+                                        "order" : 59,
+                                        "color" : "#C786BA",
+                                        "name" : "Whitebark pine"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 15,
+                            "alias" : " California mixed softwoods",
+                            "color" : "#BD4B9B",
+                            "name" : "15",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 61,
+                                        "color" : "#BD4B9B",
+                                        "name" : "California mixed conifer"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 16,
+                            "alias" : " Exotic softwoods",
+                            "color" : "#9B1F87",
+                            "name" : "16",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 63,
+                                        "color" : "#9B1F87",
+                                        "name" : "Australian pine"
+                                    },
+                                    {
+                                        "order" : 66,
+                                        "color" : "#9B1F87",
+                                        "name" : "Introduced larch"
+                                    },
+                                    {
+                                        "order" : 65,
+                                        "color" : "#9B1F87",
+                                        "name" : "Norway spruce"
+                                    },
+                                    {
+                                        "order" : 64,
+                                        "color" : "#9B1F87",
+                                        "name" : "Other exotic softwoods"
+                                    },
+                                    {
+                                        "order" : 62,
+                                        "color" : "#9B1F87",
+                                        "name" : "Scotch pine"
+                                    }
+                                ]
+                        }
+                    ]
+            },
+            {
+                "name" : "Hardwoods",
+                "children" :
+                    [
+                        {
+                            "order" : 17,
+                            "alias" : " oak/pine",
+                            "color" : "#ED1B2F",
+                            "name" : "17",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 68,
+                                        "color" : "#ED1B2F",
+                                        "name" : "Eastern redcedar / hardwood"
+                                    },
+                                    {
+                                        "order" : 67,
+                                        "color" : "#ED1B2F",
+                                        "name" : "Eastern white pine / Northern red oak / white ash"
+                                    },
+                                    {
+                                        "order" : 72,
+                                        "color" : "#ED1B2F",
+                                        "name" : "Loblolly pine / hardwood"
+                                    },
+                                    {
+                                        "order" : 69,
+                                        "color" : "#ED1B2F",
+                                        "name" : "Longleaf pine / oak"
+                                    },
+                                    {
+                                        "order" : 74,
+                                        "color" : "#ED1B2F",
+                                        "name" : "Other pine / hardwood"
+                                    },
+                                    {
+                                        "order" : 70,
+                                        "color" : "#ED1B2F",
+                                        "name" : "Shortleaf pine / oak"
+                                    },
+                                    {
+                                        "order" : 73,
+                                        "color" : "#ED1B2F",
+                                        "name" : "Slash pine / hardwood"
+                                    },
+                                    {
+                                        "order" : 71,
+                                        "color" : "#ED1B2F",
+                                        "name" : "Virginia pine / Southern red oak"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 18,
+                            "alias" : " Oak/hickory",
+                            "color" : "#F7941E",
+                            "name" : "18",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 87,
+                                        "color" : "#F7941E",
+                                        "name" : "Black locust"
+                                    },
+                                    {
+                                        "order" : 86,
+                                        "color" : "#F7941E",
+                                        "name" : "Black walnut"
+                                    },
+                                    {
+                                        "order" : 83,
+                                        "color" : "#F7941E",
+                                        "name" : "Bur oak"
+                                    },
+                                    {
+                                        "order" : 76,
+                                        "color" : "#F7941E",
+                                        "name" : "Chestnut oak"
+                                    },
+                                    {
+                                        "order" : 89,
+                                        "color" : "#F7941E",
+                                        "name" : "Chestnut oak / black oak / scarlet oak"
+                                    },
+                                    {
+                                        "order" : 91,
+                                        "color" : "#F7941E",
+                                        "name" : "Mixed upland hardwoods"
+                                    },
+                                    {
+                                        "order" : 79,
+                                        "color" : "#F7941E",
+                                        "name" : "Northern red oak"
+                                    },
+                                    {
+                                        "order" : 75,
+                                        "color" : "#F7941E",
+                                        "name" : "Post oak / blackjack oak"
+                                    },
+                                    {
+                                        "order" : 90,
+                                        "color" : "#F7941E",
+                                        "name" : "Red maple / oak"
+                                    },
+                                    {
+                                        "order" : 81,
+                                        "color" : "#F7941E",
+                                        "name" : "Sassafras / persimmon"
+                                    },
+                                    {
+                                        "order" : 84,
+                                        "color" : "#F7941E",
+                                        "name" : "Scarlet oak"
+                                    },
+                                    {
+                                        "order" : 82,
+                                        "color" : "#F7941E",
+                                        "name" : "Sweetgum / yellow-poplar"
+                                    },
+                                    {
+                                        "order" : 78,
+                                        "color" : "#F7941E",
+                                        "name" : "White oak"
+                                    },
+                                    {
+                                        "order" : 77,
+                                        "color" : "#F7941E",
+                                        "name" : "White oak / red oak / hickory"
+                                    },
+                                    {
+                                        "order" : 85,
+                                        "color" : "#F7941E",
+                                        "name" : "Yellow-poplar"
+                                    },
+                                    {
+                                        "order" : 88,
+                                        "color" : "#F7941E",
+                                        "name" : "South scrub oak"
+                                    },
+                                    {
+                                        "order" : 80,
+                                        "color" : "#F7941E",
+                                        "name" : "Yellow-poplar / white oak / Northern red oak"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 19,
+                            "alias" : " Oak/gum/cypress",
+                            "color" : "#FFC20E",
+                            "name" : "19",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 95,
+                                        "color" : "#FFC20E",
+                                        "name" : "Atlantic white-cedar"
+                                    },
+                                    {
+                                        "order" : 96,
+                                        "color" : "#FFC20E",
+                                        "name" : "Baldcypress / water tupelo"
+                                    },
+                                    {
+                                        "order" : 94,
+                                        "color" : "#FFC20E",
+                                        "name" : "Overcup oak / water hickory"
+                                    },
+                                    {
+                                        "order" : 92,
+                                        "color" : "#FFC20E",
+                                        "name" : "Swamp chestnut oak / cherrybark oak"
+                                    },
+                                    {
+                                        "order" : 97,
+                                        "color" : "#FFC20E",
+                                        "name" : "Sweetbay / swamp tupelo / red maple"
+                                    },
+                                    {
+                                        "order" : 93,
+                                        "color" : "#FFC20E",
+                                        "name" : "Sweetgum / Nuttall oak / willow oak"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 20,
+                            "alias" : " Elm/ash/cottonwood",
+                            "color" : "#FFDD00",
+                            "name" : "20",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 98,
+                                        "color" : "#FFDD00",
+                                        "name" : "Black ash / American elm / red maple"
+                                    },
+                                    {
+                                        "order" : 100,
+                                        "color" : "#FFDD00",
+                                        "name" : "Cottonwood"
+                                    },
+                                    {
+                                        "order" : 106,
+                                        "color" : "#FFDD00",
+                                        "name" : "Cottonwood / willow"
+                                    },
+                                    {
+                                        "order" : 107,
+                                        "color" : "#FFDD00",
+                                        "name" : "Oregon ash"
+                                    },
+                                    {
+                                        "order" : 105,
+                                        "color" : "#FFDD00",
+                                        "name" : "Red maple / lowland"
+                                    },
+                                    {
+                                        "order" : 99,
+                                        "color" : "#FFDD00",
+                                        "name" : "River birch / sycamore"
+                                    },
+                                    {
+                                        "order" : 104,
+                                        "color" : "#FFDD00",
+                                        "name" : "Silver maple / American elm"
+                                    },
+                                    {
+                                        "order" : 103,
+                                        "color" : "#FFDD00",
+                                        "name" : "Sugarberry / hackberry / elm / green ash"
+                                    },
+                                    {
+                                        "order" : 102,
+                                        "color" : "#FFDD00",
+                                        "name" : "Sycamore / pecan / American elm"
+                                    },
+                                    {
+                                        "order" : 101,
+                                        "color" : "#FFDD00",
+                                        "name" : "Willow"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 21,
+                            "alias" : " Maple/beech/birch",
+                            "color" : "#FFF200",
+                            "name" : "21",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 109,
+                                        "color" : "#FFF200",
+                                        "name" : "Black cherry"
+                                    },
+                                    {
+                                        "order" : 110,
+                                        "color" : "#FFF200",
+                                        "name" : "Cherry / white ash / yellow-poplar"
+                                    },
+                                    {
+                                        "order" : 112,
+                                        "color" : "#FFF200",
+                                        "name" : "Elm / ash / black locust"
+                                    },
+                                    {
+                                        "order" : 111,
+                                        "color" : "#FFF200",
+                                        "name" : "Hard maple / basswood"
+                                    },
+                                    {
+                                        "order" : 113,
+                                        "color" : "#FFF200",
+                                        "name" : "Red maple / upland"
+                                    },
+                                    {
+                                        "order" : 108,
+                                        "color" : "#FFF200",
+                                        "name" : "Sugar maple / beech / yellow birch"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 22,
+                            "alias" : " Aspen/birch",
+                            "color" : "#E2E41A",
+                            "name" : "22",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 114,
+                                        "color" : "#E2E41A",
+                                        "name" : "Aspen"
+                                    },
+                                    {
+                                        "order" : 116,
+                                        "color" : "#E2E41A",
+                                        "name" : "Balsam poplar"
+                                    },
+                                    {
+                                        "order" : 115,
+                                        "color" : "#E2E41A",
+                                        "name" : "Paper birch"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 23,
+                            "alias" : " Alder/maple",
+                            "color" : "#BFD730",
+                            "name" : "23",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 118,
+                                        "color" : "#BFD730",
+                                        "name" : "Bigleaf maple"
+                                    },
+                                    {
+                                        "order" : 117,
+                                        "color" : "#BFD730",
+                                        "name" : "Red alder"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 24,
+                            "alias" : " Western oak",
+                            "color" : "#8DC63F",
+                            "name" : "24",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 122,
+                                        "color" : "#8DC63F",
+                                        "name" : "Blue oak"
+                                    },
+                                    {
+                                        "order" : 120,
+                                        "color" : "#8DC63F",
+                                        "name" : "California black oak"
+                                    },
+                                    {
+                                        "order" : 125,
+                                        "color" : "#8DC63F",
+                                        "name" : "Canyon live oak / interior live oak"
+                                    },
+                                    {
+                                        "order" : 124,
+                                        "color" : "#8DC63F",
+                                        "name" : "Coast live oak"
+                                    },
+                                    {
+                                        "order" : 123,
+                                        "color" : "#8DC63F",
+                                        "name" : "Deciduous oak woodland"
+                                    },
+                                    {
+                                        "order" : 119,
+                                        "color" : "#8DC63F",
+                                        "name" : "Gray pine"
+                                    },
+                                    {
+                                        "order" : 121,
+                                        "color" : "#8DC63F",
+                                        "name" : "Oregon white oak"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 25,
+                            "alias" : " Tanoak/laurel",
+                            "color" : "#00A651",
+                            "name" : "25",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 127,
+                                        "color" : "#00A651",
+                                        "name" : "California laurel"
+                                    },
+                                    {
+                                        "order" : 128,
+                                        "color" : "#00A651",
+                                        "name" : "Giant chinkapin"
+                                    },
+                                    {
+                                        "order" : 126,
+                                        "color" : "#00A651",
+                                        "name" : "Tanoak"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 26,
+                            "alias" : " other western hardwoods",
+                            "color" : "#009247",
+                            "name" : "26",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 131,
+                                        "color" : "#009247",
+                                        "name" : "Cercocarpus woodland"
+                                    },
+                                    {
+                                        "order" : 132,
+                                        "color" : "#009247",
+                                        "name" : "Intermountain maple woodland"
+                                    },
+                                    {
+                                        "order" : 130,
+                                        "color" : "#009247",
+                                        "name" : "Mesquite woodland"
+                                    },
+                                    {
+                                        "order" : 133,
+                                        "color" : "#009247",
+                                        "name" : "Misc. western woodland hardwoods"
+                                    },
+                                    {
+                                        "order" : 129,
+                                        "color" : "#009247",
+                                        "name" : "Pacific madrone"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 27,
+                            "alias" : " Tropical hardwoods",
+                            "color" : "#006F45",
+                            "name" : "27",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 135,
+                                        "color" : "#006F45",
+                                        "name" : "Mangrove"
+                                    },
+                                    {
+                                        "order" : 136,
+                                        "color" : "#006F45",
+                                        "name" : "Other tropical hardwoods"
+                                    },
+                                    {
+                                        "order" : 134,
+                                        "color" : "#006F45",
+                                        "name" : "Sable palm"
+                                    }
+                                ]
+                        },
+                        {
+                            "order" : 28,
+                            "alias" : " Exotic hardwoods",
+                            "color" : "#004416",
+                            "name" : "28",
+                            "children" :
+                                [
+                                    {
+                                        "order" : 139,
+                                        "color" : "#004416",
+                                        "name" : "Eucalyptus"
+                                    },
+                                    {
+                                        "order" : 138,
+                                        "color" : "#004416",
+                                        "name" : "Melaleuca"
+                                    },
+                                    {
+                                        "order" : 140,
+                                        "color" : "#004416",
+                                        "name" : "Other exotic hardwoods"
+                                    },
+                                    {
+                                        "order" : 137,
+                                        "color" : "#004416",
+                                        "name" : "Paulownia"
+                                    }
+                                ]
+                        }
+                    ]
+            }
+        ]
+}
